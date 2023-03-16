@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\dt\514\514\main.cpp(85,30): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+C:\dt\514\514\main.cpp(85,30): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+C:\dt\514\514\main.cpp(107,30): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
+C:\dt\514\514\main.cpp(107,30): warning C4302: “类型强制转换”: 从“LPVOID”到“DWORD”截断
+  514.vcxproj -> C:\dt\514\x64\Debug\514.exe
